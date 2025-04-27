@@ -5,7 +5,7 @@
 <pre>
 💻 I am developing my skills as a Full-Stack Developer. Enthuastic about new technologies
 📚 currently studying (B.Sc.(Hons) in Software Engineering) in Birmingham University
-🌱 Focusing on Learning about customer needs and making their lives easier
+🌱 Focusing on Learning about new things
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
 
